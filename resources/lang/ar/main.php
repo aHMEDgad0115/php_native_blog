@@ -1,0 +1,25 @@
+<?php
+return[
+    'home'=>'الرئيسية',
+    'add'=>'اضافة مستخدم',
+    'language'=>'اللغة',
+    'arabic'=>'العربية',
+    'english'=>'English',
+    'login'=>'تسجيل الدخول',
+    'register'=>'التسجيل',
+    'user'=>'مستخدم',
+    'name'=>'الاسم',
+    'email'=>'البريد الالكتروني',
+    'mobile'=>'الهاتف المحمول',
+    'address'=>'العنوان',
+    'sitename'=>'الاخبار',
+    'readmore'=>'قرءاة المزيد',
+    'write_comment'=>'كتابة تعليق',
+    'add_comment'=>'تعليق',
+    'comment'=>'تعليق',
+    'comments'=>'التعليقات',
+    'news_id'=>' الخبر',
+    'archive'=>'الارشيف',
+    'latest_news'=>'اخر الاخبار ',
+
+];

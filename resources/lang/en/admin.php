@@ -1,0 +1,33 @@
+<?php
+return [
+    'email' => 'Email',
+    'users'=>'Users ',
+    'password' => 'Password',
+    'login' => 'Login',
+    'remember_me' => 'Remember Me',
+    'login_page' => 'Login to the Admin Panel',
+    'login_failed' => 'Invalid login credentials',
+    'logout' => 'Logout',
+    'categories' => 'Categories',
+    'dashboard' => 'Dashboard',
+    'action' => 'Manage',
+    'create' => 'Add',
+    'show' => 'Show',
+    'save' => 'Update',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'delete_message' => 'Are you sure you want to delete this record?',
+    'cancel' => 'Cancel Deletion',
+    'news' => 'News',
+    'created_at' => 'Creation Date',
+    'updated_at' => 'Modification Date',
+    'choose' => 'Choose',
+    'success'=>'Success',
+    'added'=>'تمت الاضافة بنجاح ',
+    'updated'=>'تمت التحديث بنجاح ',
+    'deleted'=>'تمت الحذف بنجاح ',
+    'comments'=>'Comments',
+    'signup'=>'SignUp',
+
+
+];

@@ -1,0 +1,25 @@
+<?php
+return [
+    'home' => 'Home',
+    'add' => 'Add User',
+    'language' => 'Language',
+    'arabic' => 'العربية',
+    'english' => 'English',
+    'login' => 'Login',
+    'register' => 'Register',
+    'user' => 'User',
+    'name' => 'Name',
+    'email' => 'Email',
+    'mobile' => 'Mobile Phone',
+    'address' => 'Address',
+    'sitename'=>'News',
+    'readmore'=>'Read More',
+    'write_comment'=>'Write Comment',
+    'add_comment'=>'Add',
+    'comment'=>'comment',
+    'comments'=>'Comments',
+    'news_id'=>' News ',
+    'archive'=>'Archive',
+    'latest_news'=>'Latest News',
+
+];
